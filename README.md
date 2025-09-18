@@ -43,10 +43,3 @@ The dataset used is `Position_Salaries.csv`, which includes three columns:
 3. Place the `Position_Salaries.csv` file in the same directory.
 4. Open and run the Jupyter notebook.
 
-
-
-
-
----
-
-Feel free to contribute or suggest improvements! 😊
