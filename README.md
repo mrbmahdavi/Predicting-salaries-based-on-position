@@ -37,6 +37,7 @@ The dataset used is `Position_Salaries.csv`, which includes three columns:
 ## 📈 Visualizations
 - **Simple Linear Regression**: Plots the best-fit straight line.
 - **Polynomial Linear Regression**: Plots the best-fit curved line (polynomial regression curve).
+- **Support vercot machine**: Plots the SVR results.
 
 ## 📁 Files
 - `Jozveh_Polynominal_linear_regression.ipynb`: Jupyter notebook containing all code, visualizations, and explanations for the solution with **Simple Linear Regression** and **Polynomial Linear Regression**
