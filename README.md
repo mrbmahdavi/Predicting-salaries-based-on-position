@@ -27,12 +27,12 @@ The dataset used is `Position_Salaries.csv`, which includes three columns:
 - Degree of polynomial used: **2**
 
 ### 3. Support vector machine
-- Used feature scalling with `sklearn.preprocessing.Standardscaler` for better performance
+- Used feature scalling with `sklearn.preprocessing.Standardscaler` 
 - Train the model on the scaled version of the dataset.
 
 ### Note
 - The first two models are in `Jozveh_Polynominal_linear_regression.ipynb`
-- You can find the third model in: `jozveh_Support_Vector_Regression.ipynb`
+- You can find the third model in: `Jozveh_Support_Vector_Regression.ipynb`
 
 ## 📈 Visualizations
 - **Simple Linear Regression**: Plots the best-fit straight line.
@@ -41,7 +41,7 @@ The dataset used is `Position_Salaries.csv`, which includes three columns:
 
 ## 📁 Files
 - `Jozveh_Polynominal_linear_regression.ipynb`: Jupyter notebook containing all code, visualizations, and explanations for the solution with **Simple Linear Regression** and **Polynomial Linear Regression**
-- `jozveh_Support_Vector_Regression.ipynb`: Jupyter notebook containing all code for **Support vector machine** solution
+- `Jozveh_Support_Vector_Regression.ipynb`: Jupyter notebook containing all code for **Support vector machine** solution
 - `Position_Salaries.csv` : dataset
 
 ## 🚀 How to Run
